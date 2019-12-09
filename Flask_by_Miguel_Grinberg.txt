@@ -1,0 +1,9 @@
+﻿CHAPTER 3: Templates
+- View function have 2 independent purposes:
+	+ Business Logic: Backend
+	+ Presentation Logic: Frontend
+- render_template
+- Jinja2 variable filter (safe, length)
+- Jinja2 control structure ( {% if %}
+- Template inheritance
+	+ flask_bootstrap
