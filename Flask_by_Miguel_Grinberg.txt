@@ -7,3 +7,4 @@
 - Jinja2 control structure ( {% if %}
 - Template inheritance
 	+ flask_bootstrap
+- Test git
